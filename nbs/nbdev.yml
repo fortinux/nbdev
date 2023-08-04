@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://fortinux.github.io/nbdev"
+  description: "Hola mundo con nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/fortinux/nbdev"
